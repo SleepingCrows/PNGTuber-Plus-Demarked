@@ -1,2 +1,2 @@
-This is a Godot 4.1.2 stable project. Not sure if everything will work in future version.
-This code is very bad so be warned this is a SLOP project
+# PNGTuber+Demarked
+A fork of PNGTuber migrated to Redot 4.3, with opinionated changes that look more elegant.
